@@ -1,7 +1,7 @@
  /*
  18.Display the lines of a file in reverse order (from last to first).
 Input: File name: lines.txt
-Output: Shows lines from bottom to top
+Output: Shows lines from  bottom to top
 */
 #include<stdio.h>
 void show_lines_rev(void){
